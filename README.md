@@ -24,3 +24,6 @@ Aqui está uma captura de tela do projeto em execução:
 ## Tecnologias utilizadas
 - React
 - CSS
+
+## Backend
+Este projeto possui um backend separado que é necessário para seu funcionamento correto. O código do backend está armazenado no repositório [https://github.com/Nmartins6/desafio-supera-backend](https://github.com/Nmartins6/desafio-supera-backend).
